@@ -78,5 +78,4 @@ It acts as the **“eyes” of the ADAS system**, helping the vehicle recognize 
 
 ---
 
-### 🏁 License
-This project is licensed under the [MIT License](LICENSE).
+
