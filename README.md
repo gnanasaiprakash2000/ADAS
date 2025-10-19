@@ -1,4 +1,4 @@
-# 📸 Camera Sensor in ADAS
+# Camera Sensor in ADAS
 
 ## 1️⃣ What is a Camera Sensor?
 
