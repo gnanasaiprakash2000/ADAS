@@ -72,10 +72,4 @@ It acts as the **“eyes” of the ADAS system**, helping the vehicle recognize 
 
 ---
 
-### 🧾 Author
-**Gnanasaiprakash**  
-💡 *Automotive Vision & ADAS Enthusiast | Deep Learning Developer*
-
----
-
 
