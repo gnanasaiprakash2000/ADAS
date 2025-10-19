@@ -17,6 +17,7 @@ It acts as the **“eyes” of the ADAS system**, helping the vehicle recognize 
    - Automatic Emergency Braking  
    - Lane Keeping Assistance  
 
+![image alt](Images/1760857787446.jpg.png)
 ---
 
 ## 3️⃣ Types of Cameras in ADAS
