@@ -4,7 +4,7 @@
 
 A **camera sensor** is an electronic vision device that captures real-time images or videos of the surroundings.  
 It acts as the **“eyes” of the ADAS system**, helping the vehicle recognize **lanes, vehicles, pedestrians, traffic signs,** and **obstacles** — just like a human driver.
-[image alt](Images/Camara.jpg)
+[image alt](Images/Camara.jpg width='20' height='20')
 ---
 
 ## 2️⃣ How It Works
