@@ -60,8 +60,4 @@ Combining LiDAR, radar, and camera data provides robust perception. Cameras prov
 - Open3D / PCL (Point Cloud Library) for point cloud analysis
 - Machine Learning (TensorFlow / PyTorch) for object classification
 
-## Example Visualization
-```python
-import open3d as o3d
-pcd = o3d.io.read_point_cloud("sample_lidar.pcd")
-o3d.visualization.draw_geometries([pcd])
+![image alt](Images/IMG_20251020_152523.jpg)
