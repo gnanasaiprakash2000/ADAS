@@ -32,11 +32,4 @@ BMW integrates thermal cameras in some high-end models (e.g., Night Vision packa
 ## Integration in Sensor Fusion
 IR sensors complement visible-light cameras in low-light scenarios. Combined with radar, LiDAR, and GPS/IMU for robust, 24/7 vehicle perception. Thermal data helps ADAS prioritize objects by heat signature, improving response in night-time conditions.
 
-## Example Code (Python Simulation)
-```python
-import numpy as np
-# Simulate a thermal image array (temperature in °C)
-thermal_image = np.random.uniform(20, 35, size=(120, 160))
-# Detect hot objects (temperature > 30°C)
-hot_objects = np.argwhere(thermal_image > 30)
-print(f"Hot objects detected at coordinates: {hot_objects}")
+![image alt](Images/IMG_20251020_151739.jpg)
