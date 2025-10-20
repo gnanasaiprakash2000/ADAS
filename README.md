@@ -101,12 +101,4 @@ They enhance vehicle safety by detecting nearby obstacles or driver errors, and 
 
 ---
 
-## 📄 License
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🧑‍💻 Author
-**GS Prakash**  
-🚀 Passionate about ADAS, Deep Learning, and Computer Vision  
-📫 Connect: [LinkedIn](#) | [GitHub](#)
+![image alt](Images/IMG_20251020_112756.jpg)
