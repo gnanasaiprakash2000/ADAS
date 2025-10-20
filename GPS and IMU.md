@@ -34,18 +34,4 @@ NovAtel, Trimble, u-blox – GPS receivers. Bosch, Continental, Denso – Automo
 ## Use in BMW ADAS
 GPS + IMU provides accurate vehicle positioning for navigation and driver-assist features. Supports autonomous driving, lane guidance, and parking assistance. Works with cameras, radar, LiDAR, and ultrasonic sensors in sensor fusion for reliable perception.
 
-## Example Code (Python Simulation)
-```python
-# Simulate GPS + IMU data fusion (simplified example)
-import numpy as np
-
-# IMU acceleration readings (m/s^2)
-accel = np.array([0.1, 0.0, -9.8])
-# IMU angular velocity (rad/s)
-gyro = np.array([0.01, 0.02, 0.0])
-# GPS position (lat, lon, alt)
-gps_pos = np.array([12.9715987, 77.594566, 920])
-
-# Simple fused position (dummy calculation)
-fused_pos = gps_pos + 0.01 * accel
-print(f"Fused Position: {fused_pos}")
+![image alt](Images/IMG_20251020_150751.jpg)
