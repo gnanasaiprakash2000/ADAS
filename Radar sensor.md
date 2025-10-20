@@ -25,6 +25,8 @@ Radar plays a crucial role in enabling safety features like:
    - Velocity (speed)  
    - Azimuth angle (direction)
 
+![image alt](Images/Renesas_radar-ADAS-pt1-why-need-radar-fig6.jpg)
+
 ---
 
 ## 📊 Key Parameters
@@ -132,16 +134,4 @@ These work alongside cameras and ultrasonic sensors in the **Driving Assistant P
 
 ---
 
-## 📁 Repository Use
-This repository contains documentation, sensor principles, and implementation ideas for **Radar-based ADAS systems**.  
-It’s ideal for students, engineers, and researchers working on:
-- Vehicle perception systems  
-- Autonomous driving  
-- Sensor fusion and radar signal processing  
 
----
-
-## 👨‍💻 Author
-**Gnanasaiprakash**  
-📍 *Automotive AI & ADAS Enthusiast*  
-🔗 [GitHub Profile](https://github.com/gnanasaiprakash2000)
