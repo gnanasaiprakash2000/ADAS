@@ -2,6 +2,9 @@
 Ultrasonic sensors are short-range proximity sensors used in vehicles to detect nearby objects using high-frequency sound waves. They are primarily used for parking assistance, collision avoidance, and low-speed maneuvering. Ultrasonic sensors operate in the range of 0.2 m to 5 m and are commonly integrated in bumpers and corners of vehicles.
 ## Working Principle
 Ultrasonic sensors operate as follows: 1. Transmission: The sensor emits an ultrasonic wave (typically 40 kHz). 2. Reflection: The wave bounces off nearby objects and returns to the sensor. 3. Time Measurement: The sensor calculates distance using the time of flight (ToF) of the sound wave: `Distance = (Speed of Sound × Time of Flight) / 2`. 4. Output: Provides distance measurements used to warn the driver or trigger automated actions.
+
+![image alt](Images/IMG_20251020_163308.png)
+
 ## Key Parameters
 | Parameter | Description |
 |-----------|-------------|
@@ -23,10 +26,4 @@ Bosch – Ultrasonic parking sensors. Continental – Short-range ultrasonic mod
 Multiple ultrasonic sensors around front and rear bumpers. Used in Parking Assistant, 360° camera systems, and low-speed collision warnings. Works together with cameras, radar, and other sensors to provide enhanced sensor fusion for safety.
 ## Integration in Sensor Fusion
 Ultrasonic sensors complement radar and cameras at short range. They provide close-proximity data for maneuvering, while radar and camera handle mid-to-long range detection. They are essential for automated parking and obstacle detection in confined spaces.
-## Example Code (Python Simulation)
-```python
-import time
-speed_of_sound = 343  # m/s
-time_of_flight = 0.02  # seconds (example)
-distance = (speed_of_sound * time_of_flight) / 2
-print(f"Detected object at {distance:.2f} meters")
+
